@@ -1,12 +1,15 @@
 # LMS  FRONTEND
 ### SET UP INSTRUCTIONS
 1. Clone the repo
-``` git clone https://github.com/SameerAhmadKhanday/6thsemProject.git
+``` 
+    git clone https://github.com/SameerAhmadKhanday/6thsemProject.git
+    
 ```
 
 2. move into directory
 
-``` cd sameer
+```
+     cd sameer
 ```
 
 3.install dependencies
@@ -17,5 +20,6 @@
 
 4. run the server
 
-``` npm run dev
+```
+     npm run dev
 ```
